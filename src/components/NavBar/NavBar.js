@@ -14,14 +14,14 @@ class NavBar extends Component {
 
                         <nav>
               
-                              <a href="#">Inicio</a>
-                                <a href="#">Muebles</a>
-                                <a href="#">Sillas</a>
-                                <a href="#">La Emresa</a>
-                                <a href="#">Carrito</a>
+                              <a href="#/">Inicio</a>
+                                <a href="#/">Muebles</a>
+                                <a href="#/">Sillas</a>
+                                <a href="#/">La Emresa</a>
+                                <a href="#/">Carrito</a>
                 
               
-                        <div class="animation start-home"></div>
+                        <div className="animation start-home"></div>
                        
                         </nav>
       
